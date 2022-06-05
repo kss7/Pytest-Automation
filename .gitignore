@@ -23,6 +23,7 @@ cover/
 # Environments
 venv
 .env
+.idea/
 env/
 ENV/
 env.bak/
